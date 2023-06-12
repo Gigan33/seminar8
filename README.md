@@ -4,11 +4,11 @@ Cloning the Repository
 
 Before start clone the repository to your local computer
 
-git clone https://github.com/Gigan33/seminar7
+git clone https://github.com/Gigan33/seminar8
 
 Building the Project with CMake
 
-1)Navigate to the root directory of the project: cd seminar7
+1)Navigate to the root directory of the project: cd seminar8
 
 2)Create a "build" directory: mkdir build
 
